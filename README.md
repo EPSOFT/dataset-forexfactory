@@ -1,20 +1,9 @@
-# dataset-forexfactory
-Scrape and database forexfactory.com 
-Text translation
-Source text
-دیتابیس (دیتاست) سایت فارکس فکتوری 
-بخش اخبار 
-
-دیتا از اول سال ۲۰۰۷ تا آخر ماه سوم ۲۰۲۳
-فرمت : CSV
-101 / 5,000
-Translation results
-Translation result
 The database (dataset) of Forex Factory site
 News section
 
 Data from the beginning of 2007 to the end of the third month of 2023
 Format: CSV
+
 دیتابیس (دیتاست) سایت فارکس فکتوری 
 بخش اخبار 
 
