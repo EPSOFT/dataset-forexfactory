@@ -1,0 +1,401 @@
+Date,Time,Currency,Impact,Description,Actual,Forecast,Previous
+FriMay 1,1:59am,GBP,Low Impact Expected,Nationwide HPI m/m,0.70%,-0.30%,0.80%
+FriMay 1,All Day,CHF,Non-Economic,Bank Holiday,,,
+FriMay 1,All Day,EUR,Non-Economic,French Bank Holiday,,,
+FriMay 1,All Day,EUR,Non-Economic,German Bank Holiday,,,
+FriMay 1,All Day,EUR,Non-Economic,Italian Bank Holiday,,,
+FriMay 1,2:30am,AUD,Low Impact Expected,Commodity Prices y/y,-8.10%,,-10.70%
+FriMay 1,4:30am,GBP,Low Impact Expected,Final Manufacturing PMI,32.6,32.8,32.9
+FriMay 1,4:30am,GBP,Low Impact Expected,M4 Money Supply m/m,2.80%,0.20%,0.40%
+FriMay 1,4:30am,GBP,Low Impact Expected,Mortgage Approvals,56K,59K,74K
+FriMay 1,4:33am,GBP,Low Impact Expected,Net Lending to Individuals m/m,1.0B,4.2B,5.2B
+FriMay 1,9:30am,CAD,Low Impact Expected,Manufacturing PMI,33,,46.1
+FriMay 1,9:40am,CAD,High Impact Expected,BOC Gov Poloz Speaks,,,
+FriMay 1,9:45am,USD,Low Impact Expected,Final Manufacturing PMI,36.1,36.9,36.9
+FriMay 1,10:00am,USD,High Impact Expected,ISM Manufacturing PMI,41.5,36.7,49.1
+FriMay 1,10:00am,USD,Low Impact Expected,Construction Spending m/m,0.90%,-3.50%,-2.50%
+FriMay 1,10:00am,USD,Low Impact Expected,ISM Manufacturing Prices,35.3,30.7,37.4
+FriMay 1,All Day,USD,Low Impact Expected,Wards Total Vehicle Sales,8.6M,7.0M,11.4M
+SunMay 3,All Day,JPY,Non-Economic,Bank Holiday,,,
+SunMay 3,9:00pm,AUD,Low Impact Expected,MI Inflation Gauge m/m,-0.10%,,0.20%
+SunMay 3,9:30pm,AUD,Low Impact Expected,ANZ Job Advertisements m/m,-53.10%,,-10.00%
+SunMay 3,9:30pm,AUD,Low Impact Expected,Building Approvals m/m,-4.00%,-15.00%,19.40%
+MonMay 4,3:15am,EUR,Low Impact Expected,Spanish Manufacturing PMI,30.8,35,45.7
+MonMay 4,3:30am,CHF,Low Impact Expected,Manufacturing PMI,40.7,35.2,43.7
+MonMay 4,3:45am,EUR,Low Impact Expected,Italian Manufacturing PMI,31.1,30.3,40.3
+MonMay 4,3:50am,EUR,Low Impact Expected,French Final Manufacturing PMI,31.5,31.5,31.5
+MonMay 4,3:55am,EUR,Low Impact Expected,German Final Manufacturing PMI,34.5,34.4,34.4
+MonMay 4,4:00am,EUR,Low Impact Expected,Final Manufacturing PMI,33.4,33.6,33.6
+MonMay 4,4:30am,EUR,Low Impact Expected,Sentix Investor Confidence,-41.8,-25.9,-42.9
+MonMay 4,10:00am,USD,Low Impact Expected,Factory Orders m/m,-10.30%,-9.20%,-0.10%
+MonMay 4,12:30pm,CAD,Medium Impact Expected,Gov Council Member Wilkins Speaks,,,
+MonMay 4,2:00pm,USD,Low Impact Expected,Loan Officer Survey,,,
+MonMay 4,6:30pm,AUD,Low Impact Expected,AIG Construction Index,21.6,,37.9
+MonMay 4,6:45pm,NZD,Low Impact Expected,Building Consents m/m,-21.30%,,5.70%
+MonMay 4,All Day,JPY,Non-Economic,Bank Holiday,,,
+MonMay 4,9:00pm,NZD,Low Impact Expected,ANZ Commodity Prices m/m,-1.10%,,-2.00%
+TueMay 5,12:30am,AUD,High Impact Expected,Cash Rate,0.25%,0.25%,0.25%
+TueMay 5,12:30am,AUD,High Impact Expected,RBA Rate Statement,,,
+TueMay 5,1:45am,CHF,Low Impact Expected,SECO Consumer Climate,-39,-40,-40
+TueMay 5,2:30am,CHF,Low Impact Expected,CPI m/m,-0.40%,-0.10%,0.10%
+TueMay 5,2:45am,EUR,Low Impact Expected,French Gov Budget Balance,-52.5B,,-35.2B
+TueMay 5,3:00am,EUR,Low Impact Expected,Spanish Unemployment Change,282.9K,500.0K,302.3K
+TueMay 5,4:00am,EUR,Low Impact Expected,German Buba President Weidmann Speaks,,,
+TueMay 5,4:11am,EUR,High Impact Expected,German Constitutional Court Ruling,,,
+TueMay 5,4:30am,GBP,Medium Impact Expected,Final Services PMI,13.4,12.3,12.3
+TueMay 5,5:00am,EUR,Low Impact Expected,PPI m/m,-1.50%,-1.30%,-0.70%
+TueMay 5,8:30am,CAD,High Impact Expected,Trade Balance,-1.4B,-2.5B,-0.9B
+TueMay 5,8:30am,USD,Low Impact Expected,Trade Balance,-44.4B,-41.0B,-39.8B
+TueMay 5,9:45am,USD,Low Impact Expected,Final Services PMI,26.7,27,27
+TueMay 5,10:00am,USD,High Impact Expected,ISM Services PMI,41.8,37.5,52.5
+TueMay 5,10:01am,USD,Low Impact Expected,IBD/TIPP Economic Optimism,49.7,35.2,47.8
+TueMay 5,10:51am,NZD,Low Impact Expected,GDT Price Index,-0.80%,,-4.20%
+TueMay 5,6:45pm,NZD,High Impact Expected,Employment Change q/q,0.70%,-0.20%,0.10%
+TueMay 5,6:45pm,NZD,High Impact Expected,Unemployment Rate,4.20%,4.40%,4.00%
+TueMay 5,6:45pm,NZD,Low Impact Expected,Labor Cost Index q/q,0.30%,0.50%,0.60%
+TueMay 5,All Day,JPY,Non-Economic,Bank Holiday,,,
+TueMay 5,9:30pm,AUD,Low Impact Expected,Retail Sales m/m,8.50%,8.20%,8.20%
+WedMay 6,2:00am,EUR,Low Impact Expected,German Factory Orders m/m,-15.60%,-10.00%,-1.20%
+WedMay 6,3:15am,EUR,Low Impact Expected,Spanish Services PMI,7.1,10,23
+WedMay 6,3:45am,EUR,Low Impact Expected,Italian Services PMI,10.8,9.2,17.4
+WedMay 6,3:50am,EUR,Low Impact Expected,French Final Services PMI,10.2,10.4,10.4
+WedMay 6,3:55am,EUR,Low Impact Expected,German Final Services PMI,16.2,15.9,15.9
+WedMay 6,4:00am,EUR,Low Impact Expected,Final Services PMI,12,11.7,11.7
+WedMay 6,4:30am,GBP,Low Impact Expected,Construction PMI,8.2,21.5,39.3
+WedMay 6,5:00am,EUR,High Impact Expected,EU Economic Forecasts,,,
+WedMay 6,5:00am,EUR,Low Impact Expected,Retail Sales m/m,-11.20%,-11.20%,0.60%
+WedMay 6,8:15am,USD,High Impact Expected,ADP Non-Farm Employment Change,-20236K,-20500K,-149K
+WedMay 6,10:30am,USD,Low Impact Expected,Crude Oil Inventories,4.6M,8.5M,9.0M
+WedMay 6,6:30pm,AUD,Low Impact Expected,AIG Services Index,27.1,,38.7
+WedMay 6,7:50pm,JPY,Low Impact Expected,Monetary Base y/y,2.30%,4.50%,2.80%
+WedMay 6,9:30pm,AUD,High Impact Expected,Trade Balance,10.60B,6.40B,3.87B
+WedMay 6,9:45pm,CNY,Medium Impact Expected,Caixin Services PMI,44.4,50.1,43
+WedMay 6,11:00pm,NZD,High Impact Expected,Inflation Expectations q/q,1.24%,,1.93%
+WedMay 6,11:01pm,CNY,High Impact Expected,Trade Balance,318B,82B,139B
+WedMay 6,11:02pm,CNY,Medium Impact Expected,USD-Denominated Trade Balance,45.3B,9.1B,19.9B
+ThuMay 7,1:45am,CHF,Low Impact Expected,Unemployment Rate,3.30%,3.40%,2.90%
+ThuMay 7,2:00am,EUR,Low Impact Expected,German Industrial Production m/m,-9.20%,-7.30%,0.30%
+ThuMay 7,2:00am,GBP,High Impact Expected,BOE Monetary Policy Report,,,
+ThuMay 7,2:00am,GBP,High Impact Expected,MPC Official Bank Rate Votes,0-0-9,0-0-9,0-0-9
+ThuMay 7,2:00am,GBP,High Impact Expected,Monetary Policy Summary,,,
+ThuMay 7,2:00am,GBP,High Impact Expected,Official Bank Rate,0.10%,0.10%,0.10%
+ThuMay 7,2:00am,GBP,Low Impact Expected,Asset Purchase Facility,645B,645B,645B
+ThuMay 7,2:00am,GBP,Low Impact Expected,BOE Financial Stability Report,,,
+ThuMay 7,2:00am,GBP,Low Impact Expected,FPC Meeting Minutes,,,
+ThuMay 7,2:00am,GBP,Low Impact Expected,FPC Statement,,,
+ThuMay 7,2:00am,GBP,Low Impact Expected,MPC Asset Purchase Facility Votes,2-0-7,0-0-9,0-0-9
+ThuMay 7,2:45am,EUR,Low Impact Expected,French Industrial Production m/m,-16.20%,-12.70%,0.80%
+ThuMay 7,2:45am,EUR,Low Impact Expected,French Prelim Private Payrolls q/q,-2.30%,-0.30%,0.50%
+ThuMay 7,2:45am,EUR,Low Impact Expected,French Trade Balance,-3.3B,-4.6B,-5.0B
+ThuMay 7,3:00am,CHF,Low Impact Expected,Foreign Currency Reserves,800B,,763B
+ThuMay 7,3:30am,GBP,Low Impact Expected,Halifax HPI m/m,-0.60%,-0.30%,-0.30%
+ThuMay 7,4:00am,EUR,Low Impact Expected,German Buba President Weidmann Speaks,,,
+ThuMay 7,4:07am,EUR,Low Impact Expected,Italian Retail Sales m/m,-20.50%,-14.90%,0.90%
+ThuMay 7,5:00am,GBP,High Impact Expected,BOE Gov Bailey Speaks,,,
+ThuMay 7,5:04am,EUR,Low Impact Expected,French 10-y Bond Auction,0.03|2.0,,0.04|2.7
+ThuMay 7,7:30am,USD,Low Impact Expected,Challenger Job Cuts y/y,1576.90%,,266.90%
+ThuMay 7,8:30am,USD,High Impact Expected,Unemployment Claims,3169K,3000K,3846K
+ThuMay 7,8:30am,USD,Low Impact Expected,Prelim Nonfarm Productivity q/q,-2.50%,-5.40%,1.20%
+ThuMay 7,8:30am,USD,Low Impact Expected,Prelim Unit Labor Costs q/q,4.80%,4.30%,0.90%
+ThuMay 7,10:00am,CAD,Low Impact Expected,Ivey PMI,22.8,24.3,26
+ThuMay 7,10:00am,EUR,High Impact Expected,ECB President Lagarde Speaks,,,
+ThuMay 7,10:30am,USD,Low Impact Expected,Natural Gas Storage,109B,112B,70B
+ThuMay 7,3:00pm,USD,Low Impact Expected,Consumer Credit m/m,-12.0B,14.9B,19.9B
+ThuMay 7,4:00pm,USD,Low Impact Expected,FOMC Member Harker Speaks,,,
+ThuMay 7,7:01pm,GBP,Low Impact Expected,GfK Consumer Confidence,-33,-37,-34
+ThuMay 7,7:30pm,JPY,Low Impact Expected,Average Cash Earnings y/y,0.10%,0.10%,0.70%
+ThuMay 7,7:30pm,JPY,Low Impact Expected,Household Spending y/y,-6.00%,-6.30%,-0.30%
+ThuMay 7,9:30pm,AUD,High Impact Expected,RBA Monetary Policy Statement,,,
+FriMay 8,2:00am,EUR,Low Impact Expected,German Trade Balance,12.8B,19.0B,21.4B
+FriMay 8,All Day,EUR,Non-Economic,French Bank Holiday,,,
+FriMay 8,All Day,GBP,Non-Economic,Bank Holiday,,,
+FriMay 8,All Day,EUR,Medium Impact Expected,Eurogroup Meetings,,,
+FriMay 8,7:00am,EUR,High Impact Expected,ECB President Lagarde Speaks,,,
+FriMay 8,8:00am,USD,High Impact Expected,President Trump Speaks,,,
+FriMay 8,8:17am,CAD,Low Impact Expected,Housing Starts,171K,107K,195K
+FriMay 8,8:30am,CAD,High Impact Expected,Employment Change,-1993.8K,-4000.0K,-1010.7K
+FriMay 8,8:30am,CAD,High Impact Expected,Unemployment Rate,13.00%,18.00%,7.80%
+FriMay 8,8:30am,CAD,Low Impact Expected,Building Permits m/m,-13.20%,-20.10%,-8.40%
+FriMay 8,8:30am,USD,High Impact Expected,Average Hourly Earnings m/m,4.70%,0.50%,0.50%
+FriMay 8,8:30am,USD,High Impact Expected,Non-Farm Employment Change,-20537K,-22000K,-881K
+FriMay 8,8:30am,USD,High Impact Expected,Unemployment Rate,14.70%,16.00%,4.40%
+FriMay 8,10:00am,USD,Low Impact Expected,Final Wholesale Inventories m/m,-0.80%,-1.00%,-1.00%
+SunMay 10,7:50pm,JPY,Low Impact Expected,BOJ Summary of Opinions,,,
+SunMay 10,9:00pm,NZD,High Impact Expected,Prelim ANZ Business Confidence,-45.6,,-66.6
+MonMay 11,3:32am,CNY,Low Impact Expected,New Loans,1700B,1300B,2850B
+MonMay 11,3:33am,CNY,Low Impact Expected,M2 Money Supply y/y,11.10%,10.30%,10.10%
+MonMay 11,4:00am,EUR,Low Impact Expected,Italian Industrial Production m/m,-28.40%,-20.00%,-1.00%
+MonMay 11,9:30pm,AUD,Medium Impact Expected,NAB Business Confidence,-46,,-65
+MonMay 11,9:30pm,CNY,Low Impact Expected,CPI y/y,3.30%,3.70%,4.30%
+MonMay 11,9:30pm,CNY,Low Impact Expected,PPI y/y,-3.10%,-2.60%,-1.50%
+MonMay 11,11:35pm,JPY,Low Impact Expected,10-y Bond Auction,0.00|4.1,,0.02|4.2
+TueMay 12,1:00am,JPY,Low Impact Expected,Leading Indicators,83.80%,84.30%,91.70%
+TueMay 12,6:00am,USD,Low Impact Expected,NFIB Small Business Index,90.9,86.7,96.4
+TueMay 12,8:30am,USD,High Impact Expected,CPI m/m,-0.80%,-0.70%,-0.40%
+TueMay 12,8:30am,USD,High Impact Expected,CPI y/y,0.30%,0.40%,1.50%
+TueMay 12,8:30am,USD,High Impact Expected,Core CPI m/m,-0.40%,-0.20%,-0.10%
+TueMay 12,10:00am,USD,Low Impact Expected,FOMC Member Harker Speaks,,,
+TueMay 12,10:00am,USD,Low Impact Expected,FOMC Member Quarles Speaks,,,
+TueMay 12,10:00am,USD,Low Impact Expected,Mortgage Delinquencies,4.36%,,3.77%
+TueMay 12,1:01pm,USD,Low Impact Expected,10-y Bond Auction,0.70|2.7,,0.78|2.4
+TueMay 12,2:00pm,USD,Low Impact Expected,Federal Budget Balance,-737.9B,-729.7B,-119.1B
+TueMay 12,5:00pm,USD,Low Impact Expected,FOMC Member Mester Speaks,,,
+TueMay 12,7:01pm,GBP,Low Impact Expected,BRC Retail Sales Monitor y/y,5.70%,-15.00%,-3.50%
+TueMay 12,7:50pm,JPY,Low Impact Expected,Bank Lending y/y,3.00%,2.00%,2.00%
+TueMay 12,7:50pm,JPY,Low Impact Expected,Current Account,0.94T,1.29T,2.35T
+TueMay 12,8:30pm,AUD,Low Impact Expected,Westpac Consumer Sentiment,16.40%,,-17.70%
+TueMay 12,9:30pm,AUD,Medium Impact Expected,Wage Price Index q/q,0.50%,0.50%,0.50%
+TueMay 12,10:00pm,NZD,High Impact Expected,Official Cash Rate,0.25%,0.25%,0.25%
+TueMay 12,10:00pm,NZD,High Impact Expected,RBNZ Monetary Policy Statement,,,
+TueMay 12,10:00pm,NZD,High Impact Expected,RBNZ Rate Statement,,,
+TueMay 12,11:00pm,NZD,High Impact Expected,RBNZ Press Conference,,,
+WedMay 13,1:02am,JPY,Low Impact Expected,Economy Watchers Sentiment,7.9,10.1,14.2
+WedMay 13,2:00am,GBP,High Impact Expected,Prelim GDP q/q,-2.00%,-2.60%,0.00%
+WedMay 13,2:00am,GBP,Medium Impact Expected,GDP m/m,-5.80%,-7.90%,-0.20%
+WedMay 13,2:00am,GBP,Low Impact Expected,Construction Output m/m,-5.90%,-7.10%,-2.10%
+WedMay 13,2:00am,GBP,Low Impact Expected,Index of Services 3m/3m,-1.90%,-2.50%,0.20%
+WedMay 13,2:02am,GBP,Medium Impact Expected,Manufacturing Production m/m,-4.60%,-6.00%,0.30%
+WedMay 13,2:02am,GBP,Low Impact Expected,Goods Trade Balance,-12.5B,-10.0B,-9.8B
+WedMay 13,2:02am,GBP,Low Impact Expected,Industrial Production m/m,-4.20%,-5.50%,-0.10%
+WedMay 13,2:02am,GBP,Low Impact Expected,Prelim Business Investment q/q,0.00%,-3.00%,-0.50%
+WedMay 13,5:00am,EUR,Low Impact Expected,Industrial Production m/m,-11.30%,-12.30%,-0.10%
+WedMay 13,5:35am,EUR,Low Impact Expected,German 30-y Bond Auction,-0.13|2.5,,-0.09|1.9
+WedMay 13,8:30am,USD,Medium Impact Expected,Core PPI m/m,-0.30%,-0.10%,0.20%
+WedMay 13,8:30am,USD,Medium Impact Expected,PPI m/m,-1.30%,-0.50%,-0.20%
+WedMay 13,9:00am,USD,High Impact Expected,Fed Chair Powell Speaks,,,
+WedMay 13,9:10am,GBP,Low Impact Expected,NIESR GDP Estimate,-11.80%,,-2.00%
+WedMay 13,10:30am,USD,Low Impact Expected,Crude Oil Inventories,-0.7M,4.1M,4.6M
+WedMay 13,1:05pm,USD,Low Impact Expected,30-y Bond Auction,1.34|2.3,,1.33|2.4
+WedMay 13,4:10pm,NZD,High Impact Expected,RBNZ Gov Orr Speaks,,,
+WedMay 13,6:45pm,NZD,Low Impact Expected,Visitor Arrivals m/m,-40.90%,,-10.50%
+WedMay 13,7:01pm,GBP,Low Impact Expected,RICS House Price Balance,-21%,-25%,9%
+WedMay 13,7:50pm,JPY,Low Impact Expected,M2 Money Stock y/y,3.70%,3.40%,3.30%
+WedMay 13,9:00pm,AUD,Low Impact Expected,MI Inflation Expectations,3.40%,,4.60%
+WedMay 13,9:30pm,AUD,High Impact Expected,Employment Change,-594.3K,-575.0K,0.7K
+WedMay 13,9:30pm,AUD,High Impact Expected,Unemployment Rate,6.20%,8.30%,5.20%
+WedMay 13,10:00pm,NZD,High Impact Expected,Annual Budget Release,,,
+WedMay 13,11:35pm,JPY,Low Impact Expected,30-y Bond Auction,0.45|3.7,,0.43|3.5
+ThuMay 14,1:59am,JPY,Low Impact Expected,Prelim Machine Tool Orders y/y,-48.30%,,-40.70%
+ThuMay 14,2:00am,EUR,Low Impact Expected,German Final CPI m/m,0.40%,0.30%,0.30%
+ThuMay 14,2:00am,EUR,Low Impact Expected,German WPI m/m,-1.40%,-0.30%,-0.40%
+ThuMay 14,2:30am,CHF,Low Impact Expected,PPI m/m,-1.30%,-1.30%,-0.30%
+ThuMay 14,3:13am,CNY,Low Impact Expected,Foreign Direct Investment ytd/y,-6.10%,,-10.80%
+ThuMay 14,4:00am,EUR,Low Impact Expected,ECB Economic Bulletin,,,
+ThuMay 14,4:02am,EUR,Low Impact Expected,Italian Trade Balance,5.69B,5.40B,6.09B
+ThuMay 14,6:30am,GBP,High Impact Expected,BOE Gov Bailey Speaks,,,
+ThuMay 14,8:30am,CAD,Low Impact Expected,Manufacturing Sales m/m,-9.20%,-4.40%,0.40%
+ThuMay 14,8:30am,USD,Medium Impact Expected,Unemployment Claims,2981K,2500K,3176K
+ThuMay 14,8:30am,USD,Low Impact Expected,Import Prices m/m,-2.60%,-3.10%,-2.40%
+ThuMay 14,10:00am,CAD,Medium Impact Expected,BOC Financial System Review,,,
+ThuMay 14,10:30am,CAD,High Impact Expected,BOC Gov Poloz Speaks,,,
+ThuMay 14,10:30am,USD,Low Impact Expected,Natural Gas Storage,103B,107B,109B
+ThuMay 14,11:00am,USD,Low Impact Expected,FOMC Member Kashkari Speaks,,,
+ThuMay 14,Mar Data,NZD,Low Impact Expected,BusinessNZ Manufacturing Index,38,,53.7
+ThuMay 14,6:30pm,NZD,Low Impact Expected,BusinessNZ Manufacturing Index,26.1,,38
+ThuMay 14,7:50pm,JPY,Low Impact Expected,PPI y/y,-2.30%,-1.40%,-0.40%
+ThuMay 14,10:00pm,CNY,Medium Impact Expected,Fixed Asset Investment ytd/y,-10.30%,-9.80%,-16.10%
+ThuMay 14,10:00pm,CNY,Medium Impact Expected,Industrial Production y/y,3.90%,1.50%,-1.10%
+ThuMay 14,10:00pm,CNY,Low Impact Expected,Retail Sales y/y,-7.50%,-5.90%,-15.80%
+ThuMay 14,10:00pm,CNY,Low Impact Expected,Unemployment Rate,6.00%,5.80%,5.90%
+FriMay 15,2:00am,EUR,Low Impact Expected,German PPI m/m,-0.70%,-0.60%,-0.80%
+FriMay 15,2:45am,EUR,Low Impact Expected,French Final CPI m/m,0.00%,0.10%,0.10%
+FriMay 15,4:00am,EUR,High Impact Expected,German Prelim GDP q/q,-2.20%,-2.20%,-0.10%
+FriMay 15,5:00am,EUR,Low Impact Expected,Flash Employment Change q/q,-0.20%,-2.00%,0.30%
+FriMay 15,5:00am,EUR,Low Impact Expected,Flash GDP q/q,-3.80%,-3.80%,-3.80%
+FriMay 15,5:00am,EUR,Low Impact Expected,Trade Balance,23.5B,17.2B,25.6B
+FriMay 15,All Day,EUR,Low Impact Expected,Eurogroup Meetings,,,
+FriMay 15,8:30am,CAD,Low Impact Expected,Foreign Securities Purchases,-9.78B,3.50B,19.42B
+FriMay 15,8:30am,USD,High Impact Expected,Core Retail Sales m/m,-17.20%,-8.60%,-4.00%
+FriMay 15,8:30am,USD,High Impact Expected,Retail Sales m/m,-16.40%,-12.00%,-8.30%
+FriMay 15,8:30am,USD,Low Impact Expected,Empire State Manufacturing Index,-48.5,-65,-78.2
+FriMay 15,9:15am,USD,Low Impact Expected,Capacity Utilization Rate,64.90%,63.90%,73.20%
+FriMay 15,9:15am,USD,Low Impact Expected,Industrial Production m/m,-11.20%,-11.30%,-4.50%
+FriMay 15,10:00am,USD,Medium Impact Expected,Prelim UoM Consumer Sentiment,73.7,68,71.8
+FriMay 15,10:00am,USD,Low Impact Expected,Business Inventories m/m,-0.20%,-0.30%,-0.50%
+FriMay 15,10:00am,USD,Low Impact Expected,JOLTS Job Openings,6.19M,5.77M,7.00M
+FriMay 15,10:00am,USD,Low Impact Expected,Prelim UoM Inflation Expectations,3.00%,,2.10%
+FriMay 15,4:00pm,USD,Low Impact Expected,TIC Long-Term Purchases,-112.6B,-67.4B,49.6B
+SunMay 17,6:30pm,NZD,Low Impact Expected,BusinessNZ Services Index,25.9,,52
+SunMay 17,7:00pm,USD,High Impact Expected,Fed Chair Powell Speaks,,,
+SunMay 17,7:50pm,JPY,Low Impact Expected,Prelim GDP Price Index y/y,0.90%,0.70%,1.20%
+SunMay 17,7:50pm,JPY,Low Impact Expected,Prelim GDP q/q,-0.90%,-1.10%,-1.80%
+MonMay 18,12:30am,JPY,Low Impact Expected,Tertiary Industry Activity m/m,-4.20%,-3.60%,-0.70%
+MonMay 18,6:00am,EUR,Low Impact Expected,German Buba Monthly Report,,,
+MonMay 18,All Day,CAD,Non-Economic,Bank Holiday,,,
+MonMay 18,9:30am,GBP,Low Impact Expected,CB Leading Index m/m,-1.30%,,-0.10%
+MonMay 18,10:00am,USD,Low Impact Expected,NAHB Housing Market Index,37,35,30
+MonMay 18,11:00am,GBP,Low Impact Expected,MPC Member Tenreyro Speaks,,,
+MonMay 18,4:00pm,USD,Low Impact Expected,FOMC Financial Stability Report,,,
+MonMay 18,6:45pm,NZD,Low Impact Expected,PPI Input q/q,-0.30%,-0.30%,0.30%
+MonMay 18,6:45pm,NZD,Low Impact Expected,PPI Output q/q,0.10%,0.10%,0.50%
+MonMay 18,9:30pm,AUD,Medium Impact Expected,Monetary Policy Meeting Minutes,,,
+TueMay 19,12:30am,JPY,Low Impact Expected,Revised Industrial Production m/m,-3.70%,-3.70%,-3.70%
+TueMay 19,2:00am,GBP,High Impact Expected,Claimant Count Change,856.5K,675.0K,5.4K
+TueMay 19,2:02am,GBP,Low Impact Expected,Average Earnings Index 3m/y,2.40%,2.70%,2.80%
+TueMay 19,2:02am,GBP,Low Impact Expected,Unemployment Rate,3.90%,4.40%,4.00%
+TueMay 19,5:00am,EUR,Low Impact Expected,ZEW Economic Sentiment,46,27.4,25.2
+TueMay 19,5:00am,EUR,Low Impact Expected,German ZEW Economic Sentiment,51,30,28.2
+TueMay 19,All Day,EUR,Low Impact Expected,ECOFIN Meetings,,,
+TueMay 19,All Day,All,High Impact Expected,G7 Meetings,,,
+TueMay 19,8:30am,USD,Medium Impact Expected,Building Permits,1.07M,1.00M,1.36M
+TueMay 19,8:30am,USD,Low Impact Expected,Housing Starts,0.89M,0.95M,1.28M
+TueMay 19,9:00am,CNY,Low Impact Expected,CB Leading Index m/m,-1.00%,,0.40%
+TueMay 19,10:00am,USD,High Impact Expected,Fed Chair Powell Testifies,,,
+TueMay 19,10:00am,USD,Low Impact Expected,FOMC Member Kashkari Speaks,,,
+TueMay 19,10:30am,AUD,Low Impact Expected,CB Leading Index m/m,-0.30%,,-0.50%
+TueMay 19,10:43am,NZD,Low Impact Expected,GDT Price Index,1.00%,,-0.80%
+TueMay 19,6:45pm,NZD,Low Impact Expected,FPI m/m,1.00%,,0.70%
+TueMay 19,7:50pm,JPY,Low Impact Expected,Core Machinery Orders m/m,-0.40%,-6.80%,2.30%
+TueMay 19,9:00pm,AUD,Low Impact Expected,MI Leading Index m/m,-1.50%,,-0.70%
+TueMay 19,9:30pm,AUD,High Impact Expected,Retail Sales m/m,-17.90%,,8.50%
+WedMay 20,2:00am,GBP,Medium Impact Expected,CPI y/y,0.80%,0.90%,1.50%
+WedMay 20,2:00am,GBP,Low Impact Expected,PPI Input m/m,-5.10%,-4.20%,-3.80%
+WedMay 20,2:00am,GBP,Low Impact Expected,PPI Output m/m,-0.70%,-0.50%,-0.20%
+WedMay 20,2:02am,GBP,Low Impact Expected,Core CPI y/y,1.40%,1.40%,1.60%
+WedMay 20,2:02am,GBP,Low Impact Expected,RPI y/y,1.50%,1.60%,2.60%
+WedMay 20,4:00am,EUR,Low Impact Expected,Current Account,27.4B,29.2B,37.8B
+WedMay 20,4:30am,GBP,Low Impact Expected,HPI y/y,2.10%,1.50%,2.00%
+WedMay 20,5:00am,EUR,Low Impact Expected,Final CPI y/y,0.30%,0.40%,0.40%
+WedMay 20,5:00am,EUR,Low Impact Expected,Final Core CPI y/y,0.90%,0.90%,0.90%
+WedMay 20,5:33am,EUR,Low Impact Expected,German 10-y Bond Auction,-0.47|2.4,,-0.48|2.5
+WedMay 20,8:30am,CAD,Medium Impact Expected,CPI m/m,-0.70%,-0.60%,-0.60%
+WedMay 20,8:30am,CAD,Low Impact Expected,Common CPI y/y,1.60%,1.70%,1.70%
+WedMay 20,8:30am,CAD,Low Impact Expected,Median CPI y/y,2.00%,1.90%,2.00%
+WedMay 20,8:30am,CAD,Low Impact Expected,Trimmed CPI y/y,1.80%,1.80%,1.80%
+WedMay 20,8:30am,CAD,Low Impact Expected,Wholesale Sales m/m,-2.20%,-4.50%,0.30%
+WedMay 20,8:32am,CAD,Low Impact Expected,Core CPI m/m,-0.40%,,0.10%
+WedMay 20,9:30am,GBP,High Impact Expected,BOE Gov Bailey Speaks,,,
+WedMay 20,10:00am,EUR,Low Impact Expected,Consumer Confidence,-19,-23,-23
+WedMay 20,10:30am,USD,Low Impact Expected,Crude Oil Inventories,-5.0M,1.7M,-0.7M
+WedMay 20,2:00pm,CAD,Low Impact Expected,Gov Council Member Lane Speaks,,,
+WedMay 20,2:00pm,USD,Medium Impact Expected,FOMC Meeting Minutes,,,
+WedMay 20,7:00pm,AUD,Low Impact Expected,Flash Manufacturing PMI,42.8,,44.1
+WedMay 20,7:00pm,AUD,Low Impact Expected,Flash Services PMI,25.5,,19.5
+WedMay 20,7:50pm,JPY,Low Impact Expected,Trade Balance,-1.00T,-0.65T,-0.38T
+WedMay 20,8:30pm,JPY,Low Impact Expected,Flash Manufacturing PMI,38.4,38.5,41.9
+WedMay 20,10:30pm,AUD,High Impact Expected,RBA Gov Lowe Speaks,,,
+WedMay 20,11:00pm,NZD,Low Impact Expected,Credit Card Spending y/y,-49.40%,,-9.40%
+ThuMay 21,All Day,CHF,Non-Economic,Bank Holiday,,,
+ThuMay 21,All Day,EUR,Non-Economic,French Bank Holiday,,,
+ThuMay 21,All Day,EUR,Non-Economic,German Bank Holiday,,,
+ThuMay 21,3:15am,EUR,High Impact Expected,French Flash Services PMI,29.4,27.9,10.2
+ThuMay 21,3:15am,EUR,Medium Impact Expected,French Flash Manufacturing PMI,40.3,36,31.5
+ThuMay 21,3:30am,EUR,High Impact Expected,German Flash Manufacturing PMI,36.8,39.3,34.5
+ThuMay 21,3:30am,EUR,High Impact Expected,German Flash Services PMI,31.4,26.3,16.2
+ThuMay 21,4:00am,EUR,Medium Impact Expected,Flash Manufacturing PMI,39.5,38,33.4
+ThuMay 21,4:00am,EUR,Medium Impact Expected,Flash Services PMI,28.7,25,12
+ThuMay 21,4:30am,GBP,Medium Impact Expected,Flash Manufacturing PMI,40.6,35.1,32.6
+ThuMay 21,4:30am,GBP,Medium Impact Expected,Flash Services PMI,27.8,24.1,13.4
+ThuMay 21,4:55am,EUR,Low Impact Expected,Spanish 10-y Bond Auction,0.71|1.3,,0.69|2.0
+ThuMay 21,6:00am,GBP,Low Impact Expected,CBI Industrial Order Expectations,-62,-50,-56
+ThuMay 21,8:30am,CAD,Low Impact Expected,ADP Non-Farm Employment Change,-226.7K,,-17.2K
+ThuMay 21,8:30am,CAD,Low Impact Expected,NHPI m/m,0.00%,-0.10%,0.30%
+ThuMay 21,8:30am,USD,Medium Impact Expected,Philly Fed Manufacturing Index,-43.1,-40,-56.6
+ThuMay 21,8:30am,USD,Medium Impact Expected,Unemployment Claims,2438K,2400K,2687K
+ThuMay 21,9:45am,USD,High Impact Expected,Flash Manufacturing PMI,39.8,39.3,36.1
+ThuMay 21,9:45am,USD,Low Impact Expected,Flash Services PMI,36.9,32.6,26.7
+ThuMay 21,10:00am,USD,Low Impact Expected,CB Leading Index m/m,-4.40%,-5.50%,-7.40%
+ThuMay 21,10:00am,USD,Low Impact Expected,Existing Home Sales,4.33M,4.31M,5.27M
+ThuMay 21,10:00am,USD,Low Impact Expected,FOMC Member Williams Speaks,,,
+ThuMay 21,10:30am,USD,Low Impact Expected,Natural Gas Storage,81B,83B,103B
+ThuMay 21,1:00pm,USD,Low Impact Expected,FOMC Member Clarida Speaks,,,
+ThuMay 21,2:30pm,USD,High Impact Expected,Fed Chair Powell Speaks,,,
+ThuMay 21,6:45pm,NZD,Medium Impact Expected,Retail Sales q/q,-0.70%,-1.50%,0.00%
+ThuMay 21,6:48pm,NZD,Low Impact Expected,Core Retail Sales q/q,0.60%,0.70%,-0.10%
+ThuMay 21,7:01pm,GBP,Low Impact Expected,GfK Consumer Confidence,-34,,-33
+ThuMay 21,7:30pm,JPY,Low Impact Expected,National Core CPI y/y,-0.20%,-0.10%,0.40%
+ThuMay 21,9:00pm,JPY,High Impact Expected,Monetary Policy Statement,,,
+ThuMay 21,9:00pm,JPY,Low Impact Expected,BOJ Policy Rate,-0.10%,-0.10%,-0.10%
+FriMay 22,2:00am,GBP,High Impact Expected,Retail Sales m/m,-18.10%,-15.80%,-5.20%
+FriMay 22,2:00am,GBP,Low Impact Expected,Public Sector Net Borrowing,61.4B,48.7B,14.0B
+FriMay 22,7:30am,EUR,High Impact Expected,ECB Monetary Policy Meeting Accounts,,,
+FriMay 22,8:30am,CAD,Medium Impact Expected,Core Retail Sales m/m,-0.40%,-4.80%,0.10%
+FriMay 22,8:30am,CAD,Low Impact Expected,Retail Sales m/m,-10.00%,-10.30%,0.40%
+SunMay 24,9:30pm,AUD,Low Impact Expected,Goods Trade Balance,8.32B,,11.35B
+MonMay 25,2:00am,EUR,Low Impact Expected,German Final GDP q/q,-2.20%,-2.20%,-2.20%
+MonMay 25,All Day,GBP,Non-Economic,Bank Holiday,,,
+MonMay 25,4:00am,EUR,Low Impact Expected,German ifo Business Climate,79.5,78.3,74.2
+MonMay 25,All Day,USD,Non-Economic,Bank Holiday,,,
+MonMay 25,8:56am,EUR,Low Impact Expected,Belgian NBB Business Climate,-34.4,-29.7,-36.1
+MonMay 25,1:30pm,CAD,Medium Impact Expected,BOC Gov Poloz Speaks,,,
+MonMay 25,6:45pm,NZD,Low Impact Expected,Trade Balance,1267M,1250M,722M
+MonMay 25,7:50pm,JPY,Low Impact Expected,SPPI y/y,1.00%,1.30%,1.60%
+MonMay 25,9:00pm,JPY,Medium Impact Expected,BOJ Gov Kuroda Speaks,,,
+TueMay 26,12:30am,JPY,Low Impact Expected,All Industries Activity m/m,-3.80%,-3.90%,-0.70%
+TueMay 26,1:00am,JPY,Low Impact Expected,BOJ Core CPI y/y,-0.10%,0.00%,0.10%
+TueMay 26,2:00am,EUR,Low Impact Expected,German GfK Consumer Climate,-18.9,-19.1,-23.1
+TueMay 26,2:02am,CHF,Low Impact Expected,Trade Balance,4.04B,3.89B,3.96B
+TueMay 26,6:00am,GBP,Low Impact Expected,CBI Realized Sales,-50,-65,-55
+TueMay 26,9:00am,EUR,Medium Impact Expected,ECB Financial Stability Review,,,
+TueMay 26,9:00am,USD,Low Impact Expected,HPI m/m,0.10%,0.60%,0.80%
+TueMay 26,9:00am,USD,Low Impact Expected,S&P/CS Composite-20 HPI y/y,3.90%,3.40%,3.50%
+TueMay 26,10:00am,USD,Medium Impact Expected,CB Consumer Confidence,86.6,87.1,85.7
+TueMay 26,10:00am,USD,Low Impact Expected,New Home Sales,623K,492K,619K
+TueMay 26,1:00pm,USD,Low Impact Expected,FOMC Member Kashkari Speaks,,,
+TueMay 26,5:00pm,CAD,High Impact Expected,BOC Gov Poloz Speaks,,,
+TueMay 26,5:00pm,NZD,High Impact Expected,RBNZ Financial Stability Report,,,
+TueMay 26,7:00pm,NZD,High Impact Expected,RBNZ Gov Orr Speaks,,,
+TueMay 26,9:00pm,NZD,High Impact Expected,RBNZ Gov Orr Speaks,,,
+TueMay 26,9:30pm,AUD,Low Impact Expected,Construction Work Done q/q,-1.00%,-1.50%,-2.90%
+WedMay 27,3:30am,EUR,Medium Impact Expected,ECB President Lagarde Speaks,,,
+WedMay 27,4:00am,CHF,Low Impact Expected,Credit Suisse Economic Expectations,31.3,,12.7
+WedMay 27,8:30am,CAD,Low Impact Expected,Building Permits m/m,-17.10%,-16.50%,-13.40%
+WedMay 27,9:59am,USD,Low Impact Expected,Richmond Manufacturing Index,-27,-40,-53
+WedMay 27,2:00pm,USD,Low Impact Expected,Beige Book,,,
+WedMay 27,8:00pm,AUD,High Impact Expected,RBA Gov Lowe Speaks,,,
+WedMay 27,9:00pm,NZD,Medium Impact Expected,ANZ Business Confidence,-41.8,,-45.6
+WedMay 27,9:30pm,AUD,High Impact Expected,Private Capital Expenditure q/q,-1.60%,-2.60%,-2.60%
+ThuMay 28,All Day,EUR,Low Impact Expected,German Prelim CPI m/m,-0.10%,0.10%,0.40%
+ThuMay 28,3:00am,EUR,Low Impact Expected,Spanish Flash CPI y/y,-1.00%,-1.00%,-0.70%
+ThuMay 28,6:00am,GBP,Medium Impact Expected,MPC Member Saunders Speaks,,,
+ThuMay 28,6:37am,GBP,Low Impact Expected,30-y Bond Auction,0.60|2.6,,0.61|2.3
+ThuMay 28,8:30am,CAD,Low Impact Expected,Current Account,-11.1B,-10.2B,-9.3B
+ThuMay 28,8:30am,USD,High Impact Expected,Prelim GDP q/q,-5.00%,-4.80%,-4.80%
+ThuMay 28,8:30am,USD,Medium Impact Expected,Core Durable Goods Orders m/m,-7.40%,-14.80%,-0.40%
+ThuMay 28,8:30am,USD,Medium Impact Expected,Durable Goods Orders m/m,-17.20%,-19.00%,-14.70%
+ThuMay 28,8:30am,USD,Medium Impact Expected,Unemployment Claims,2123K,2100K,2446K
+ThuMay 28,8:30am,USD,Low Impact Expected,Prelim GDP Price Index q/q,1.40%,1.30%,1.30%
+ThuMay 28,10:00am,USD,Medium Impact Expected,Pending Home Sales m/m,-21.80%,-15.00%,-20.80%
+ThuMay 28,10:30am,USD,Low Impact Expected,Natural Gas Storage,109B,113B,81B
+ThuMay 28,11:00am,USD,Low Impact Expected,Crude Oil Inventories,7.9M,-2.5M,-5.0M
+ThuMay 28,11:00am,USD,Low Impact Expected,FOMC Member Williams Speaks,,,
+ThuMay 28,7:30pm,JPY,Low Impact Expected,Tokyo Core CPI y/y,0.20%,-0.20%,-0.10%
+ThuMay 28,7:30pm,JPY,Low Impact Expected,Unemployment Rate,2.60%,2.70%,2.50%
+ThuMay 28,7:50pm,JPY,Low Impact Expected,Prelim Industrial Production m/m,-9.10%,-5.50%,-3.70%
+ThuMay 28,7:50pm,JPY,Low Impact Expected,Retail Sales y/y,-13.70%,-11.20%,-4.70%
+ThuMay 28,9:30pm,AUD,Low Impact Expected,Private Sector Credit m/m,0.00%,0.60%,1.10%
+FriMay 29,1:00am,JPY,Low Impact Expected,Housing Starts y/y,-12.90%,-12.00%,-7.60%
+FriMay 29,1:02am,JPY,Low Impact Expected,Consumer Confidence,24,21.3,21.6
+FriMay 29,2:00am,EUR,Low Impact Expected,German Import Prices m/m,-1.80%,-1.50%,-3.50%
+FriMay 29,2:00am,EUR,Low Impact Expected,German Retail Sales m/m,-5.30%,-12.00%,-4.00%
+FriMay 29,2:45am,EUR,Low Impact Expected,French Consumer Spending m/m,-20.20%,-14.50%,-16.90%
+FriMay 29,2:45am,EUR,Low Impact Expected,French Prelim CPI m/m,0.00%,0.10%,0.00%
+FriMay 29,2:45am,EUR,Low Impact Expected,French Prelim GDP q/q,-5.30%,-5.80%,-5.80%
+FriMay 29,3:00am,CHF,Low Impact Expected,KOF Economic Barometer,53.2,70.2,59.7
+FriMay 29,4:00am,EUR,Low Impact Expected,M3 Money Supply y/y,8.30%,8.10%,7.50%
+FriMay 29,4:00am,EUR,Low Impact Expected,Private Loans y/y,3.00%,3.50%,3.40%
+FriMay 29,5:00am,EUR,Low Impact Expected,CPI Flash Estimate y/y,0.10%,0.10%,0.30%
+FriMay 29,5:00am,EUR,Low Impact Expected,Core CPI Flash Estimate y/y,0.90%,0.80%,0.90%
+FriMay 29,5:00am,EUR,Low Impact Expected,Italian Prelim CPI m/m,-0.10%,-0.10%,0.10%
+FriMay 29,5:21am,EUR,Low Impact Expected,Italian 10-y Bond Auction,1.42|1.3,,1.78|1.3
+FriMay 29,8:30am,CAD,High Impact Expected,GDP m/m,-7.20%,-9.00%,0.00%
+FriMay 29,8:30am,CAD,Medium Impact Expected,RMPI m/m,-13.40%,-23.90%,-15.60%
+FriMay 29,8:30am,CAD,Low Impact Expected,IPPI m/m,-2.30%,-2.00%,-1.50%
+FriMay 29,8:30am,USD,Medium Impact Expected,Core PCE Price Index m/m,-0.40%,-0.30%,0.00%
+FriMay 29,8:30am,USD,Medium Impact Expected,Personal Spending m/m,-13.60%,-12.60%,-6.90%
+FriMay 29,8:30am,USD,Low Impact Expected,Goods Trade Balance,-69.7B,-64.8B,-65.0B
+FriMay 29,8:30am,USD,Low Impact Expected,Personal Income m/m,10.50%,-7.00%,-2.20%
+FriMay 29,8:30am,USD,Low Impact Expected,Prelim Wholesale Inventories m/m,0.40%,-0.50%,-0.80%
+FriMay 29,9:45am,USD,Medium Impact Expected,Chicago PMI,32.3,40.1,35.4
+FriMay 29,10:00am,USD,Medium Impact Expected,Revised UoM Consumer Sentiment,72.3,73.7,73.7
+FriMay 29,10:00am,USD,Low Impact Expected,Revised UoM Inflation Expectations,3.20%,,3.00%
+FriMay 29,11:00am,USD,High Impact Expected,Fed Chair Powell Speaks,,,
+FriMay 29,2:00pm,USD,High Impact Expected,President Trump Speaks,,,
+SatMay 30,9:00pm,CNY,High Impact Expected,Manufacturing PMI,50.6,51.1,50.8
+SatMay 30,9:00pm,CNY,Medium Impact Expected,Non-Manufacturing PMI,53.6,53.5,53.2
+SunMay 31,All Day,NZD,Non-Economic,Bank Holiday,,,
+SunMay 31,6:30pm,AUD,Low Impact Expected,AIG Manufacturing Index,41.6,,35.8
+SunMay 31,7:50pm,JPY,Low Impact Expected,Capital Spending q/y,4.30%,-5.10%,-3.50%
+SunMay 31,8:30pm,JPY,Low Impact Expected,Final Manufacturing PMI,38.4,38.4,38.4
+SunMay 31,9:00pm,AUD,Low Impact Expected,MI Inflation Gauge m/m,-1.20%,,-0.10%
+SunMay 31,9:45pm,CNY,Low Impact Expected,Caixin Manufacturing PMI,50.7,49.7,49.4
