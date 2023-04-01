@@ -10,6 +10,10 @@ Format: CSV
 دیتا از اول سال ۲۰۰۷ تا آخر ماه سوم ۲۰۲۳
 فرمت : CSV 
 
+Code scrape is here : [Scrape ForexFactory](https://github.com/EPSOFT/Scrape-ForexFactory)
+
+
+
 <h1 align="center">Ahoy 👋, I'm Ehsan Paydar </h1>
 <h3 align="center">A passionate engineering master's student artificial intelligence originally from Iran </h3>
 
